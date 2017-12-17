@@ -26,21 +26,30 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 10
   identifier = "home"
   url = "https://kkyinli.github.io/"
+
+[[menu.main]]             # config your menu              # 配置目录
+  name = "Home"
+  weight = 20
+  identifier = "home"
+  url = "https://kkyinli.github.io/blog/"
+
 [[menu.main]]
   name = "blog"
-  weight = 20
+  weight = 30
   identifier = "blog"
   url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
+
 [[menu.main]]
   name = "Categories"
   weight = 40
   identifier = "categories"
   url = "/categories/"
+  
+[[menu.main]]
+  name = "Tags"
+  weight = 50
+  identifier = "tags"
+  url = "/tags/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
