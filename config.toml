@@ -34,7 +34,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   url = "/post/"
 
 [[menu.main]]
-  name = "blog"
+  name = "Blog"
   weight = 30
   identifier = "blog"
   url = "/"
