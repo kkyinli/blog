@@ -28,23 +28,23 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   url = "https://kkyinli.github.io/"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "Home"
+  name = "Archive"
   weight = 20
-  identifier = "home"
-  url = "https://kkyinli.github.io/blog/"
+  identifier = "archive"
+  url = "/post/"
 
 [[menu.main]]
   name = "blog"
   weight = 30
   identifier = "blog"
-  url = "/post/"
+  url = "/"
 
 [[menu.main]]
   name = "Categories"
   weight = 40
   identifier = "categories"
   url = "/categories/"
-  
+
 [[menu.main]]
   name = "Tags"
   weight = 50
