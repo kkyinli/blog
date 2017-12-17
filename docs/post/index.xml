@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on YinLi&#39;s&#39;Blog</title>
+    <link>http://kkyinli.github.io/blog/post/</link>
+    <description>Recent content in Posts on YinLi&#39;s&#39;Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Dec 2017 13:31:08 +0800</lastBuildDate>
+    
+	<atom:link href="http://kkyinli.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myfirstpost</title>
+      <link>http://kkyinli.github.io/blog/post/myfirstpost/</link>
+      <pubDate>Sun, 17 Dec 2017 13:31:08 +0800</pubDate>
+      
+      <guid>http://kkyinli.github.io/blog/post/myfirstpost/</guid>
+      <description>This is my first post</description>
+    </item>
+    
+  </channel>
+</rss>
